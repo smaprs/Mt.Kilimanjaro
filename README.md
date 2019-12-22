@@ -2,6 +2,7 @@
 Mt.Kilimanjaro 3D  
  
 See and browse it at: https://smaprs.github.io/Mt.Kilimanjaro/  
+(Press "R" to auto-rotate; "i" for help; drag mouse to browse)  
   
 Made with:  
 -QGIS; Qgis2threejs plugin for 3D digital elevation model processing - https://github.com/minorua/Qgis2threejs;  

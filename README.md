@@ -1,14 +1,12 @@
-# Mt.Kilimanjaro
-Mt.Kilimanjaro 3D
+# Mt.Kilimanjaro  
+Mt.Kilimanjaro 3D  
  
-See and browse it at: https://smaprs.github.io/Mt.Kilimanjaro/
+See and browse it at: https://smaprs.github.io/Mt.Kilimanjaro/  
   
-Made in QGIS using: -Qgis2threejs plugin for 3D digital elevation model processing - https://github.com/minorua/Qgis2threejs;
--Contour lines made with Raster plugin from GdalTools;  
-  
-Courtesy NASA/USGS (NASA EOSDIS Land Processes Distributed Active Archive Center (LP DAAC), USGS/Earth Resources Observation and Science (EROS) Center, Sioux Falls, South Dakota):
-Data obtained from USGS Global Visualization Viewer at http://glovis.usgs.gov/ and Nasa Shuttle Radar data SRTMGL1 at https://gdex.cr.usgs.gov/gdex/  
-  
--Map data: © OpenStreetMap Contributors.  
-  
+Made with:  
+-QGIS; Qgis2threejs plugin for 3D digital elevation model processing - https://github.com/minorua/Qgis2threejs;  
+-Satellite image: Sentinel-2 composite at https://www.sentinel-hub.com/  
+-Custom script at: https://custom-scripts.sentinel-hub.com/sentinel-2/markuse_fire/ from https://twitter.com/Pierre_Markuse  
+-DEM/SRTM courtesy NASA/USGS at https://gdex.cr.usgs.gov/gdex/  
+
 This derived work made by me (OSMuser: http://www.openstreetmap.org/user/smaprs) is free to copy and share under CC-BY-SA and only for free educational purposes.
